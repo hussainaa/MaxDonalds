@@ -46,3 +46,14 @@ Medium Fries,Fries,340,16,44,4,190,1.83
 Large Fries,Fries,510,24,67,6,290,2.06
 10 Pc. Chicken McNuggets,Chicken,470,30,30,22,900,5.16
 40 Pc. Chicken McNuggets,Chicken,1880,118,118,87,3600,10.34
+Small Soda,Drink,140,0,0,0,0,1.15
+Medium Soda,Drink,200,0,0,0,0,1.48
+Large Soda,Drink,280,0,0,0,0,1.71
+Small Sweet Tea,Drink,150,0,0,0,10,1.15
+Medium Sweet Tea,Drink,180,0,0,0,10,1.48
+Small Frappe,Drink ,440,18,64,7,125,2.75
+Medium Frappe,Drink,540,22,79,9,160,3.32
+Large Frappe,Drink,670,26,97,11,190,3.9
+Small Iced Coffee,Drink,130,4.5,22,1,35,1.83
+Medium Iced Coffee,Drink,180,7,29,1,50,2.06
+Large Iced Coffee,Drink,260,9,43,2,65,2.29
